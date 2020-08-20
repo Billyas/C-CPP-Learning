@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "windows.h": "c",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp"
+    },
+    "editor.formatOnSave": false,
+    "C_Cpp.default.configurationProvider": "vector-of-bool.cmake-tools",
+    "C_Cpp.dimInactiveRegions": false
+}

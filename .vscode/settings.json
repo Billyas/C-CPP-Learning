@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "windows.h": "c",
+    "iostream": "cpp",
+    "cmath": "cpp"
+  },
+
+  "editor.formatOnSave": true,
+  "C_Cpp.errorSquiggles": "Enabled"
+  //"terminal.integrated.shellArgs.windows": ["/K chcp 65001 >nul"],
+}

@@ -1,0 +1,8 @@
+${fileDirname}/${fileBasenameNoExtension}.exe//替换后
+
+"${workspaceRoot}/${fileBasenameNoExtension}.exe"
+
+task.json中args改成
+"args": ["-g","${file}","-o","${fileDirname}/${fileBasenameNoExtension}.exe"],
+
+"args": ["-g","${file}","-o","${fileBasenameNoExtension}.exe"],
